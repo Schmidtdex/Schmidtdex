@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá! Eu sou o Guilherme Schmidt
 
-<!--
-**Schmidtdex/Schmidtdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dlwschmidt/profilecard/?igsh=YjRueXJodWJ4OW82)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Estudante de Engenharia da computação do Inteli!
+### 🎖️No tempo vago:
+- 🎯 Viciado na academia
+- 🎊 Adoro sair com os amigos
+- 🎮 Adoro um soulslike
+### 😁Uma peculiaridade:
+#### Quando era mais novo, era muito bom no Judo, ganhei diversas medalhas e quase tomei um rumo de um atleta!
+![Schmidt GitHub stats](https://github-readme-stats.vercel.app/api?username=Schmidtdex&show-=_icons=true&theme=radical)
